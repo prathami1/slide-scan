@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SlideScan</string>
+    <string name="todo">TODO</string>
+    <string name="pin">PIN</string>
+    <string name="sampleNoteText">This is an example note.</string>
+    <string name="save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="add_note">Add Note:</string>
+</resources>
