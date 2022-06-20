@@ -5,7 +5,7 @@ An android application designed for students to easily record and notate lecture
 Designed as a user-friendly note-storing platform, this application features standard note-taking characteristics, such as creating, editing, searching for, deleting, pinning, and viewing a note. In addition to those features, it boasts two NLP (Natural Language Processing) based tools to help convert ideas to notes: speech and image to text recognition. 
 
 ## How it works
-Built in primarily Java, this application consists of three main UIs: the homepage, 
+Built in primarily Java, this application consists of three main UIs: the Homepage, Create a New Note, and Crop an Image. The Homepage consists of a recycler view holding a list of notes, presented in chronological order. 
 
 ## Dependencies Utilized
 - Java
