@@ -12,7 +12,9 @@ Built in primarily Java, this application consists of three main UIs: the Homepa
 https://user-images.githubusercontent.com/62070812/177069819-ba51afc0-9c3e-4509-9956-a99e5df9d1f6.mp4
 
 ## Application in Action
-
+| Home Page     | Simple Operations         | Order of Operations       | Special Operations       | Decimal Operations
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![scene1](media/image1.png)  | ![scene2](media/image2.png) | ![scene3](media/image3.png) | ![scene4](media/image4.png) |![scene5](media/image5.png)
 
 ## Dependencies Utilized
 - Java
